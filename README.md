@@ -1,6 +1,6 @@
 PROJECT TITLE:
 
-Commodity Price Analysis Using Python
+Commodity  Analysis Using Python
 
 PROJECT  DESCRIPTION:
 
@@ -24,6 +24,9 @@ TOOLS USED:
 .Data visualization using Matplotlib and Seaborn for Statistical Visualization 
 
 .Microsoft PowerPoint (for project presentation)
+
+
+
 
 
 1. Introduction:
@@ -78,7 +81,7 @@ Key Visual-
 
 .Boxplot comparing Retail_Price across categories.
 
-Insight- 
+Key Insight- 
 
 .Non-food items have a higher median price, while food items contain more extreme price outliers.
 
@@ -117,7 +120,12 @@ Business Insights-
 This analysis helps identify states with higher average commodity prices across different categories. It highlights regional price variations and supports pricing, supply chain, and market planning decisions.
 
 
+
+
+
+
 OVERALL KEY INSIGHTS:
+
 
 (1)Commodity prices are highly unevenly distributed, with a small number of premium or industrial commodities having extremely high prices compared to most products. 
 
@@ -134,7 +142,9 @@ OVERALL KEY INSIGHTS:
 (7)Non-food commodity prices are more volatile and sensitive to market disruptions.
 
 
+
 OVERALL BUSINESS IMPACT:
+
 
 .Identified commodity price trends and regional price variations across categories.
 
@@ -147,6 +157,8 @@ OVERALL BUSINESS IMPACT:
 
 
 PPT LINK:
+
+https://github.com/nupurchatterjee01-com/Python-EDA-Commodity-Analysis-Project/blob/main/PYTHON%20EDA%20Commodity%20Proeject%20.pdf
 
 
 
